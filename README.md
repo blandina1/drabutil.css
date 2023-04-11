@@ -2,7 +2,7 @@
 
 CSS utilities with standardized names
 
-`<link rel="stylesheet" href="https://unpkg.com/drab.css/css/drab.min.css">`
+`<link rel="stylesheet" href="https://unpkg.com/drabutil.css/css/drabutil.css">`
 
 ## Goals
 
