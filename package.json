@@ -1,0 +1,21 @@
+{
+  "name": "drabutil.css",
+  "version": "1.0.0",
+  "description": "A boring set of CSS utilities with (finally) consistent names.",
+  "main": "css/drabutil.css",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heiskr/drabutil.css.git"
+  },
+  "author": "heiskr",
+  "license": "MIT",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}
